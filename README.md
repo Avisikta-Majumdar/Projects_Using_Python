@@ -7,6 +7,6 @@ In this Repo. we will upload some projects which we will make using Python
   </tr>
   <tr>
     <td>Qr_Code_Maker</td>
-    <td>[Click Here](https://github.com/Avisikta-Majumdar/Projects_Using_Python/tree/main/QrCodeMaker)</td>
+    <td> (https://github.com/Avisikta-Majumdar/Projects_Using_Python/tree/main/QrCodeMaker)</td>
   </tr>
   </table>
